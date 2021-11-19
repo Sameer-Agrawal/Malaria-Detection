@@ -13,5 +13,5 @@ We had evaluated three algorithms namely,
 VGG19 gave us the best accuracy (95%), followed by VGG16 and MobileNet.
 
 Also,  
-    Loss = categorical_crossentropy, 
-     Optimizer = Adam
+1. Loss = categorical_crossentropy, 
+2. Optimizer = Adam
